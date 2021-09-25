@@ -150,6 +150,7 @@ function renderData() {
     };
     console.log("new song", newSong);
 
+    console.log("yuupppp");
     // pushing a new object into an array
     songs.push(newSong);
     songNameInput.value = "";
